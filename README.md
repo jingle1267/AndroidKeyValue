@@ -1,5 +1,8 @@
 # AndroidKeyValue
 
+[![](https://jitpack.io/v/jingle1267/AndroidKeyValue.svg)](https://jitpack.io/#jingle1267/AndroidKeyValue)
+
+
 Android上基于realm数据库的k-v工具类
 
 ### 快速使用
@@ -17,7 +20,7 @@ Android上基于realm数据库的k-v工具类
 
 ```JSON
 	dependencies {
-		compile 'com.ihongqiqu.kv:kv:1.0'
+		compile 'com.github.jingle1267:AndroidKeyValue:-SNAPSHOT'
 	}
 ```
 
