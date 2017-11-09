@@ -20,7 +20,7 @@ allprojects {
 
 ```
 dependencies {
-	compile 'com.github.jingle1267:AndroidKeyValue:-SNAPSHOT'
+	compile 'com.github.jingle1267:AndroidKeyValue:1.0.4'
 }
 ```
 

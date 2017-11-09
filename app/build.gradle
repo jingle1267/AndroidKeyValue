@@ -24,6 +24,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.0.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
-    compile project(':kv')
-    // implementation 'com.github.jingle1267:AndroidKeyValue:master-SNAPSHOT'
+    // compile project(':kv')
+    compile 'com.github.jingle1267:AndroidKeyValue:1.0.4'
 }
