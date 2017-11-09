@@ -4,6 +4,23 @@ Android上基于realm数据库的k-v工具类
 
 ### 快速使用
 
+#### 添加依赖
+
+```JSON
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+```JSON
+	dependencies {
+		compile 'com.ihongqiqu.kv:kv:1.0'
+	}
+```
+
 #### 1. init
 
 ```JAVA
