@@ -9,19 +9,19 @@ Android上基于realm数据库的k-v工具类
 
 #### 添加依赖
 
-```JSON
-    allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+```
+allprojects {
+    repositories {
+		...
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 
-```JSON
-	dependencies {
-		compile 'com.github.jingle1267:AndroidKeyValue:-SNAPSHOT'
-	}
+```
+dependencies {
+	compile 'com.github.jingle1267:AndroidKeyValue:-SNAPSHOT'
+}
 ```
 
 #### 1. init
